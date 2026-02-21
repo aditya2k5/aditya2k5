@@ -1,7 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=150&section=header&text=Hey%2C%20I%27m%20Aditya Bhatt B!&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2563EB&height=150&section=header&text=Aditya%20Bhatt%20B&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=58A6FF&vCenter=true&width=1000&lines=MERN+Stack+Developer;Embedded+Systems+Designer;Project+Builder;Sustainable+Development+Enthusiast;Electronics+%26+Electrical+Engineering" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=850&color=58A6FF&vCenter=true&width=1000&lines=MERN+Stack+Developer;Embedded+Systems+Designer;Project+Builder;Sustainable+Development+Enthusiast;Electronics+%26+Electrical+Engineering"
+    alt="Typing SVG"
+  />
 </p>
 
 
