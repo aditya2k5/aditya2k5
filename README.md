@@ -80,30 +80,13 @@
 <img src="https://raw.githubusercontent.com/aditya2k5/aditya2k5/output/snake.svg" alt="Snake animation" />
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api?username=aditya2k5&show_icons=trueusername=aditya2k5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api/top-langs/?username=aditya2k5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+
 
 
 
 ###
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api?username=aditya2k5&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="stats graph"
-  />
 
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api/top-langs/?username=aditya2k5&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400"
-    height="150"
-    alt="languages graph"
-  />
-</div>
 
 
 ###
