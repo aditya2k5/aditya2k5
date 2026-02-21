@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">Hey, I'm Aditya Bhatt B!</h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&color=58A6FF&vCenter=true&width=1000&lines=MERN+Stack+Developer;Embedded+Systems+Designer;Project+Builder;Sustainable+Development+Enthusiast;EEE+%7C+Electronics+%26+Electrical+Engineering" alt="Typing SVG" />
+</p>
+
 
 ###
 
