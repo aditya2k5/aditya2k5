@@ -90,7 +90,20 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditya2k5.aditya2k5&"  />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api?username=aditya2k5&show_icons=true&theme=dracula&hide_border=false&cache_seconds=86400"
+    height="150"
+    alt="stats graph"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-bpgqa2jad-adityabhattb2005-3282s-projects.vercel.app/api/top-langs/?username=aditya2k5&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=86400"
+    height="150"
+    alt="languages graph"
+  />
 </div>
+
 
 ###
