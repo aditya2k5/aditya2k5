@@ -2,7 +2,7 @@
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=850&color=58A6FF&vCenter=true&width=1000&lines=MERN+Stack+Developer;Embedded+Systems+Designer;Project+Builder;Sustainable+Development+Enthusiast;Electronics+%26+Electrical+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=850&color=58A6FF&vCenter=true&width=1000&lines=Data+Analyst;MERN+Stack+Developer;Embedded+Systems+Designer;Project+Builder;Sustainable+Development+Enthusiast;Electronics+%26+Electrical+Engineering"
     alt="Typing SVG"
   />
 </p>
